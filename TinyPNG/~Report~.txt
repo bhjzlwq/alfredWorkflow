@@ -1,0 +1,6 @@
+FILE: /Users/liuwenqiao/Desktop/alfred workflow/tiny_png_v1.3.alfredworkflow
+Upload FAILED
+Code: Bad request
+Message: Request is invalid: request body has unknown keys 'PK
+*sD����hh(79DA7BF7-85C5-4BA1-A3FA-7881E14F4C81.pngUT
+
